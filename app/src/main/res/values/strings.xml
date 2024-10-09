@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskManagerApp</string>
+
+    <string name="addTask">Add Task</string>
+    <string name="enterTitle">Enter the title</string>
+    <string name="enterContent">Enter the description</string>
+    <string name="tasks">Tasks</string>
+    <string name="editTask">Edit Task</string>
+
+</resources>
